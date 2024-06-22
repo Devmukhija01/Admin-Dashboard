@@ -1,4 +1,3 @@
-// src/layouts/MainLayout.js
 import React from 'react';
 import { Outlet } from 'react-router-dom';
 import { CssBaseline, Box, Toolbar, AppBar, Drawer, List, ListItem, ListItemIcon, ListItemText } from '@mui/material';
