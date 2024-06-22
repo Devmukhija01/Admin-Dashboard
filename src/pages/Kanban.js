@@ -17,8 +17,6 @@ const Kanban = () => {
 
   const onDragEnd = (result) => {
     const { destination, source } = result;
-
-    // Dropped outside the list
     if (!destination) {
       return;
     }
