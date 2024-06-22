@@ -1,4 +1,3 @@
-// src/pages/Tables.js
 import React from 'react';
 import { DataGrid } from '@mui/x-data-grid';
 
